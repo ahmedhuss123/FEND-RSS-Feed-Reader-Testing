@@ -22,4 +22,4 @@ Check if the two feeds are different.
   
 In order to run the project, dowload the project to your local pc/mac and select the indext.html file.
 
-Once the testing concludes, you will see the results at the bottom of the page.
+Once the testing concludes, you will see the Jasmine test results at the bottom of the page, showing 7 specs and 0 failures.
